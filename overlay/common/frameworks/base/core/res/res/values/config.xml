@@ -40,9 +40,7 @@
         <item>com.android.location.fused</item>
         <!-- The MicroG Unified location provider -->
         <item>org.microg.nlp</item>
-    </string-array>
-
-    <bool name="config_cellBroadcastAppLinks">true</bool>
+    </string-array>   
 
     <!-- Disable stock OTA components if installed -->
     <string-array name="config_globallyDisabledComponents" translatable="false">
@@ -125,6 +123,7 @@
         <item>com.linkedin.android</item>
         <item>com.tencent.mm</item>
         <item>nekox.messenger</item>
+        <item>nekox.messenger.broken</item>
         <item>org.telegram.plus</item>
         <item>org.thunderdog.challegram</item>
         <item>im.vector.app</item>
